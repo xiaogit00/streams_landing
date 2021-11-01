@@ -23,6 +23,6 @@ text_groups:
     description: Developed with love using React, CSS, Material UI, Express, and MongoDB.
 
   - name: Try it now!
-    description: Streams is currently in its beta testing stage. <a class="accent-text bold-text" href="https:app.streamsapp.xyz/signup">Sign up</a> now to be a beta tester! We would love to have your feedback.
+    description: Streams is currently in its beta testing stage. <a class="accent-text bold-text" href="https://app.streamsapp.xyz/signup">Sign up</a> now to be a beta tester! We would love to have your feedback.
     class: line
 ---
