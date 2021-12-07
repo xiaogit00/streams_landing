@@ -1,6 +1,6 @@
 baseURL: https://www.streamsapp.xyz/
 languageCode: en-us
-title: Yourfolio Theme
+title: Streamsapp
 theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 googleAnalytics: UA-XXXXX-Y
